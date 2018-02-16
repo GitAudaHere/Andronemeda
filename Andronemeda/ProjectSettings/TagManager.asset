@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bolt
+  - Asteroid
+  - Boundary
+  - Background
+  - UI Canvas
+  - Barracuda
+  - EnemyBolt
+  - ShieldPowerUp
+  - ShieldIcon1
+  - ShieldIcon2
+  - ShieldIcon3
+  - Score Text
+  - Gameover Text
+  - Gold Coin
+  - Silver Coin
+  - Copper Coin
+  - Leatherback
+  - Pause Menu
+  - UpgradesBoxBase
+  - UpgradesBoxText
+  - UpgradesBoxButtonBase
+  - UpgradesBoxButtonText
+  - Panel1
+  - Panel2
+  - Panel3
+  - Piranha
+  - Gameover Menu
+  - CoinsText
+  - KillsText
+  - ScoreText(GameOver)
+  - HighscoreText
+  - Pause Button
+  - Emerald Coin
+  - Sapphire Coin
+  - CoinsTextTotal
+  - KillsTextTotal
+  - PlaysTextTotal
+  - HighscoreTextAllTime
+  - Stats Menu
+  - Most Coins
+  - Most Kills
+  - Most Waves
+  - Waves Cleared
+  - Options Panel
+  - Sensitivity Value
+  - Music Vol Text
+  - HealthBar
+  - Mine
+  - Amythest Coin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Pause Menu
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 2742879209
+    locked: 0
+  - name: UI
+    uniqueID: 363513003
+    locked: 0
