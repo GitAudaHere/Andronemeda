@@ -5,3 +5,8 @@ Andronemeda/Assembly-CSharp.csproj
 Andronemeda/.gitattributes
 Andronemeda/Andronemeda.sln
 Andronemeda/Andronemeda.csproj
+Andronemeda/Temp/
+Andronemeda/obj/
+2D Space Shooter Test/
+Andronemeda/Andronemeda.userprefs
+*.meta
